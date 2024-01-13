@@ -1,0 +1,9 @@
+<Files "users.js">
+  Order allow,deny
+  Deny from all
+</Files>
+
+<Files "c.json">
+  Order allow,deny
+  Deny from all
+</Files>
